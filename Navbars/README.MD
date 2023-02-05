@@ -1,6 +1,6 @@
 #Styles used:<br>
 <h2> These should be placed in the style.css file<br><br>
-<hr> hh
+<hr>
     <h3> root styles </h3><br>
     --primary-color: #6B00FF<br>
     --secondary-color: #FF9BFF<br>
@@ -14,5 +14,5 @@
     box-sizing: border-box<br>
     font-family: 'Poppins', sans-serif;<br>
  
-    <hr> <br>
+    <br>
     <h2> I'd also like to thank conorbailey (@conorbailey on youtube) for this.</h2>
