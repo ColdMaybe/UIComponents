@@ -9,12 +9,12 @@
     --bg-color-light: #9D88B2<br>
     --bg-color-dark: #6f2da8<br>
     <h3> * </h3><br>
-    margin: 0;<br>
-    padding: 0;<br>
-    box-sizing: border-box;<br>
+    margin: 0<br>
+    padding: 0<br>
+    box-sizing: border-box<br>
     font-family: 'Poppins', sans-serif;<br>
     <h3> body </h3><br>
-    background: var(--dark-color);}<br>
+    background: var(--dark-color)<br>
     
     <hr>
     <h2> I'd also like to thank conorbailey (@conorbailey on youtube) for this.</h2>
