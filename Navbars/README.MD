@@ -7,11 +7,11 @@
     --dark-color: #1F1926<br>
     --light-color: #39BEAB<br>
     --bg-color-light: #9D88B2<br>
-    --bg-color-dark: #6f2da8<br><br>
+    --bg-color-dark: #6f2da8<br>
     <h3> * </h3><br>
     margin: 0;<br>
     padding: 0;<br>
     box-sizing: border-box;<br>
-    font-family: 'Poppins', sans-serif;<br><br>
+    font-family: 'Poppins', sans-serif;<br>
     <h3> body </h3><br>
     background: var(--dark-color);}<br>
