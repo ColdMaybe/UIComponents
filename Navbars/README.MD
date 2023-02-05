@@ -1,6 +1,6 @@
 #Styles used:<br>
 <h2> These should be placed in the style.css file<br><br>
-<hr>
+<hr> hh
     <h3> root styles </h3><br>
     --primary-color: #6B00FF<br>
     --secondary-color: #FF9BFF<br>
