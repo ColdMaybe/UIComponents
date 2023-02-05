@@ -15,4 +15,4 @@
     font-family: 'Poppins', sans-serif<br>
  
     <br>
-    <h2> I'd also like to thank conorbailey (@conorbailey on youtube) for this.</h2>
+    <h2> I'd also like to thank conorbailey (@conorbailey on youtube) for this.
