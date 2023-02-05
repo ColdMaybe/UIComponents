@@ -1,17 +1,17 @@
-#Styles used:
-<h2> These should be placed in the style.css file
-<hr>
-<h2> root styles
-    --primary-color: #6B00FF
-    --secondary-color: #FF9BFF
-    --dark-color: #1F1926
-    --light-color: #39BEAB
-    --bg-color-light: #9D88B2
-    --bg-color-dark: #6f2da8
-<h2> *
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'Poppins', sans-serif;
-<h2> body 
-    background: var(--dark-color);}
+#Styles used:<br>
+<h2> These should be placed in the style.css file<br><br>
+<hr><br><br>
+<h2> root styles <br>
+    --primary-color: #6B00FF<br>
+    --secondary-color: #FF9BFF<br>
+    --dark-color: #1F1926<br>
+    --light-color: #39BEAB<br>
+    --bg-color-light: #9D88B2<br>
+    --bg-color-dark: #6f2da8<br><br>
+<h2> *<br>
+    margin: 0;<br>
+    padding: 0;<br>
+    box-sizing: border-box;<br>
+    font-family: 'Poppins', sans-serif;<br><br>
+<h2> body <br>
+    background: var(--dark-color);}<br>
