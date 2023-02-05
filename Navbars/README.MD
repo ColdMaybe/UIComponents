@@ -13,6 +13,6 @@
     padding: 0<br>
     box-sizing: border-box<br>
     font-family: 'Poppins', sans-serif;<br>
-    
+</hr>    
     <hr> <br>
     <h2> I'd also like to thank conorbailey (@conorbailey on youtube) for this.</h2>
