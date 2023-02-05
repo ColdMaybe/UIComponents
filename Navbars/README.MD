@@ -15,3 +15,6 @@
     font-family: 'Poppins', sans-serif;<br>
     <h3> body </h3><br>
     background: var(--dark-color);}<br>
+    
+    <hr>
+    <h2> I'd also like to thank conorbailey (@conorbailey on youtube) for this.</h2>
